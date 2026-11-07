@@ -1,0 +1,12 @@
+{
+    "session_duration_seconds": 30.53,
+    "total_frames": 1833,
+    "valid_frames": 1833,
+    "calibration_seconds": 5,
+    "good_posture_seconds": 25.45,
+    "bad_posture_seconds": 0.0,
+    "good_posture_percentage": 100.0,
+    "bad_posture_percentage": 0.0,
+    "posture_breaks": 0,
+    "posture_score": 100.0
+}
