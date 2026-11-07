@@ -1,0 +1,12 @@
+# Ignore test videos
+posture_test.mp4
+posture_test2.mp4
+posture_test3.mp4
+posture_test4.mp4
+
+# Ignore virtual environment
+posture_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
